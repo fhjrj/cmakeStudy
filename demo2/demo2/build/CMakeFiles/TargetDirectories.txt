@@ -1,0 +1,4 @@
+/home/user/demotext/demo2/demo2/build/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo2/demo2/build/CMakeFiles/edit_cache.dir
+/home/user/demotext/demo2/demo2/build/CMakeFiles/claa.dir
+/home/user/demotext/demo2/demo2/build/CMakeFiles/aut.dir

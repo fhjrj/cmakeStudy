@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../header/head.h
+
+/home/user/demotext/demo2/demo2/cppsore/add.cpp
+head.h
+/home/user/demotext/demo2/demo2/cppsore/head.h
+
+/home/user/demotext/demo2/demo2/cppsore/div.cpp
+head.h
+/home/user/demotext/demo2/demo2/cppsore/head.h
+
+/home/user/demotext/demo2/demo2/cppsore/sss.cpp
+head.h
+/home/user/demotext/demo2/demo2/cppsore/head.h
+
+/home/user/demotext/demo2/demo2/cppsore/sub.cpp
+head.h
+/home/user/demotext/demo2/demo2/cppsore/head.h
+

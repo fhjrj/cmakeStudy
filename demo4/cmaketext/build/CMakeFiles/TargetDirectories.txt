@@ -1,0 +1,9 @@
+/home/user/demotext/demo4/cmaketext/build/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo4/cmaketext/build/CMakeFiles/app.dir
+/home/user/demotext/demo4/cmaketext/build/CMakeFiles/edit_cache.dir
+/home/user/demotext/demo4/cmaketext/build/cppsore/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo4/cmaketext/build/cppsore/CMakeFiles/one.dir
+/home/user/demotext/demo4/cmaketext/build/cppsore/CMakeFiles/edit_cache.dir
+/home/user/demotext/demo4/cmaketext/build/cppsore2/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo4/cmaketext/build/cppsore2/CMakeFiles/two.dir
+/home/user/demotext/demo4/cmaketext/build/cppsore2/CMakeFiles/edit_cache.dir

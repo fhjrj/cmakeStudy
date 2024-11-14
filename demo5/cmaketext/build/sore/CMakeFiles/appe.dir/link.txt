@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/appe.dir/main.cpp.o  -o ../../bin/appe  -L/home/user/demotext/demo5/cmaketext/lib -Wl,-rpath,/home/user/demotext/demo5/cmaketext/lib ../../lib/libcala.a 

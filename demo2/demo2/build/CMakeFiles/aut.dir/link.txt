@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/aut.dir/cppsore/main.cpp.o  -o ../aut  -L/home/user/demotext/demo2/demo2/lib1 -Wl,-rpath,/home/user/demotext/demo2/demo2/lib1 ../lib1/libclaa.so 

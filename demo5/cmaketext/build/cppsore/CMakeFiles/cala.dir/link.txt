@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/libcala.a  CMakeFiles/cala.dir/add.cpp.o CMakeFiles/cala.dir/div.cpp.o CMakeFiles/cala.dir/sss.cpp.o CMakeFiles/cala.dir/sub.cpp.o
+/usr/bin/ranlib ../../lib/libcala.a

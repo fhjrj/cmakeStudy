@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib2/libcmm.a  CMakeFiles/cmm.dir/cppsore/add.cpp.o CMakeFiles/cmm.dir/cppsore/div.cpp.o CMakeFiles/cmm.dir/cppsore/sss.cpp.o CMakeFiles/cmm.dir/cppsore/sub.cpp.o
+/usr/bin/ranlib ../lib2/libcmm.a

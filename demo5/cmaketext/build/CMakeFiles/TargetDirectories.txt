@@ -1,0 +1,8 @@
+/home/user/demotext/demo5/cmaketext/build/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo5/cmaketext/build/CMakeFiles/edit_cache.dir
+/home/user/demotext/demo5/cmaketext/build/cppsore/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo5/cmaketext/build/cppsore/CMakeFiles/cala.dir
+/home/user/demotext/demo5/cmaketext/build/cppsore/CMakeFiles/edit_cache.dir
+/home/user/demotext/demo5/cmaketext/build/sore/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo5/cmaketext/build/sore/CMakeFiles/appe.dir
+/home/user/demotext/demo5/cmaketext/build/sore/CMakeFiles/edit_cache.dir

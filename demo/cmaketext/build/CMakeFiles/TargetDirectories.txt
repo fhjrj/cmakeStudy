@@ -1,0 +1,3 @@
+/home/user/demotext/demo/cmaketext/build/CMakeFiles/rebuild_cache.dir
+/home/user/demotext/demo/cmaketext/build/CMakeFiles/app.dir
+/home/user/demotext/demo/cmaketext/build/CMakeFiles/edit_cache.dir
